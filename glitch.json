@@ -1,3 +1,0 @@
-{
-    "start": "yml -S 0.0.0.0:8080 heroku.yml"
-}
